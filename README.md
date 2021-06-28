@@ -1,4 +1,4 @@
-# # MiniDetran
+# MiniDetran
 
 # DESAFIO DE SELEÇÃO
 
